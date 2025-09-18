@@ -1,0 +1,106 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Chicken Biryani",
+            "price": 200,
+            "veg": false,
+            "reviews": [
+                4
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Chicken Kabab",
+            "price": 150,
+            "veg": false,
+            "reviews": []
+        },
+        {
+            "id": 3,
+            "name": "Paneer Biryani",
+            "price": 180,
+            "veg": true,
+            "reviews": []
+        },
+        {
+            "id": 4,
+            "name": "Veg Platter",
+            "price": 150,
+            "veg": true,
+            "reviews": []
+        },
+        {
+            "id": 5,
+            "name": "Ice Creame",
+            "price": 100,
+            "veg": true,
+            "reviews": []
+        },
+        {
+            "id": 6,
+            "name": "Sweet Lassi",
+            "price": 80,
+            "veg": true,
+            "reviews": []
+        },
+        {
+            "id": 7,
+            "name": "Gulab Jamoon",
+            "price": 120,
+            "veg": true,
+            "reviews": []
+        },
+        {
+            "id": 8,
+            "name": "Mutton Biryani",
+            "price": 220,
+            "veg": false,
+            "reviews": []
+        },
+        {
+            "id": 9,
+            "name": "Veg Pulav",
+            "price": 120,
+            "veg": true,
+            "reviews": []
+        },
+        {
+            "id": 10,
+            "name": "Softdrinks",
+            "price": 30,
+            "veg": true,
+            "reviews": []
+        },
+        {
+            "id": 11,
+            "name": "Friut Salad",
+            "price": 50,
+            "veg": true,
+            "reviews": []
+        },
+        {
+            "id": 12,
+            "name": "Chicken Momo",
+            "price": 50,
+            "veg": false,
+            "reviews": [
+                5
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Butter Nan",
+            "price": 50,
+            "veg": true,
+            "reviews": []
+        },
+        {
+            "id": 14,
+            "name": "Butter Chicken",
+            "price": 250,
+            "veg": false,
+            "reviews": []
+        }
+    ]
+}
