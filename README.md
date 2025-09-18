@@ -1,4 +1,4 @@
-#Cafe Agastain – Restaurant Management System
+#Cafe Agastain – Restaurant Management System#
 
 Description:
 Cafe Agastain is a Python-based restaurant management system that allows a café or restaurant to manage its menu, orders, billing, and customer reviews. The project uses JSON files for data storage and provides a console-based interactive interface for customers and restaurant owners.
