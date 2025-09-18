@@ -26,7 +26,8 @@ Secure owner authentication for menu updates.
 Dynamic calculation of total price and automatic application of discounts.
 Persistent storage of menu items and reviews using JSON files.
 
-How to Run: 1. Clone the repository:
+How to Run: 
+1. Clone the repository:
 
           git clone <repository-url>
 
