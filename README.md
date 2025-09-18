@@ -16,8 +16,9 @@ Generate Bill & Add Review:Customers can optionally give ratings (1-5) for order
                            Exit: Close the application safely.
                            
 
-Technologies Used: Python 3.x
-                   JSON for data storage
+Technologies Used:
+Python 3.x
+JSON for data storage
 
 Key Highlights:
 Console-based interactive interface with easy-to-use menu.
